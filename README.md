@@ -1,6 +1,6 @@
 # Unsupervised Road Anomaly Detection with Language Anchors
 
-Offical implementation of *Unsupervised Road Anomaly Detection with Language Anchors* (ICRA 2023)
+Copy of Offical implementation of *Unsupervised Road Anomaly Detection with Language Anchors* (ICRA 2023)
 
 ## Prepreration
 
